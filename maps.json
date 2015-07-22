@@ -1,12 +1,20 @@
 {
 	"name": "mp_rundown",
-	"map-zip": "/maps/mp_rundown/mp_rundow.zip",
+	"rating": "7/10",
+	"game-type": "DM, TDM, SD, HQ, DOM, SAB",
 	"map-size": "58.7 MB",
-	"map-screenshot": "/maps/mp_rundown/",
+	"map-screenshot": "/maps/mp_rundown/mp_rundown.jpg",
 	"iwd-github-path": "/maps/mp_rundown/localized_english_mp_rundown.iwd",
-	"iwd-local-path": "/Applications/Call of Duty 4/Call of Duty 4 Data/main/localized_english_mp_rundown.iwd",
 	"loadscreen-github-path": "/maps/mp_rundown/mp_rundown_load.ff",
-	"loadscreen-local-path": "/Applications/Call of Duty 4/Call of Duty 4 Data/zone/english/mp_rundown_load.ff",
-	"map-github-file": "/maps/mp_rundown/mp_rundown/mp_rundown.ff",
-	"map-local-path": "/Applications/Call of Duty 4/Call of Duty 4 Data/zone/english/mp_rundown.ff"
+	"map-github-file": "/maps/mp_rundown/mp_rundown.ff"
 },
+{
+	"name": "mp_waw_brecourt",
+	"rating": "10/10",
+	"game-type": "DM, TDM, SD, HQ, DOM, SAB, CTF",
+	"map-size": "65.5 MB",
+	"map-screenshot": "/maps/mp_waw_brecourt/mp_waw_brecourt.jpg",
+	"iwd-github-path": "/maps/mp_waw_brecourt/localized_english_mp_waw_brecourt.iwd",
+	"loadscreen-github-path": "/maps/mp_waw_brecourt/mp_waw_brecourt_load.ff",
+	"map-github-file": "/maps/mp_waw_brecourt/mp_waw_brecourt.ff"
+}
