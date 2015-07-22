@@ -1,0 +1,12 @@
+{
+	"name": "mp_rundown",
+	"map-zip": "/maps/mp_rundown/mp_rundow.zip",
+	"map-size": "58.7 MB",
+	"map-screenshot": "/maps/mp_rundown/",
+	"iwd-github-path": "/maps/mp_rundown/localized_english_mp_rundown.iwd",
+	"iwd-local-path": "/Applications/Call of Duty 4/Call of Duty 4 Data/main/localized_english_mp_rundown.iwd",
+	"loadscreen-github-path": "/maps/mp_rundown/mp_rundown_load.ff",
+	"loadscreen-local-path": "/Applications/Call of Duty 4/Call of Duty 4 Data/zone/english/mp_rundown_load.ff",
+	"map-github-file": "/maps/mp_rundown/mp_rundown/mp_rundown.ff",
+	"map-local-path": "/Applications/Call of Duty 4/Call of Duty 4 Data/zone/english/mp_rundown.ff"
+},
