@@ -16,8 +16,8 @@ The 2 files below are to be added to the same location:<br />
 **name =** the name of file to run using the COD4 command line<br />
 **rating =** how awesome or good the map is<br />
 **game-type =** what the map supports during game time<br />
-**map-size =** file size of what you will be downloading to your local machine<br />
-**map-screenshot =** preview of the map you are about to play<br />
+**file-size =** file size of what you will be downloading to your local machine<br />
+**screenshot =** preview of the map you are about to play<br />
 **iwd-github-path =** file path within github to get to this file<br />
 **loadscreen-github-path =** file path within github to get to this file<br />
 **map-github-file =** file path within github to get to this file
@@ -27,8 +27,8 @@ The 2 files below are to be added to the same location:<br />
   "name": "mp_name_of_map",<br />
   "rating": "7/10",<br />
   "game-type": "DM, TDM, SD, HQ, DOM, SAB",<br />
-  "map-size": "58.7 MB",<br />
-  "map-screenshot": "/maps/mp_name_of_map/mp_name_of_map.jpg",<br />
+  "file-size": "58.7 MB",<br />
+  "screenshot": "/maps/mp_name_of_map/mp_name_of_map.jpg",<br />
   "iwd-github-path": "/maps/mp_name_of_map/localized_english_mp_name_of_map.iwd",<br />
   "loadscreen-github-path": "/maps/mp_name_of_map/mp_name_of_map_load.ff",<br />
   "map-github-file": "/maps/mp_name_of_map/mp_name_of_map.ff"<br />

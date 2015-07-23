@@ -2,8 +2,8 @@
 	"name": "mp_rundown",
 	"rating": "7/10",
 	"game-type": "DM, TDM, SD, HQ, DOM, SAB",
-	"map-size": "58.7 MB",
-	"map-screenshot": "/maps/mp_rundown/mp_rundown.jpg",
+	"file-size": "58.7 MB",
+	"screenshot": "/maps/mp_rundown/mp_rundown.jpg",
 	"iwd-github-path": "/maps/mp_rundown/localized_english_mp_rundown.iwd",
 	"loadscreen-github-path": "/maps/mp_rundown/mp_rundown_load.ff",
 	"map-github-file": "/maps/mp_rundown/mp_rundown.ff"
@@ -12,8 +12,8 @@
 	"name": "mp_waw_brecourt",
 	"rating": "10/10",
 	"game-type": "DM, TDM, SD, HQ, DOM, SAB, CTF",
-	"map-size": "65.5 MB",
-	"map-screenshot": "/maps/mp_waw_brecourt/mp_waw_brecourt.jpg",
+	"file-size": "65.5 MB",
+	"screenshot": "/maps/mp_waw_brecourt/mp_waw_brecourt.jpg",
 	"iwd-github-path": "/maps/mp_waw_brecourt/localized_english_mp_waw_brecourt.iwd",
 	"loadscreen-github-path": "/maps/mp_waw_brecourt/mp_waw_brecourt_load.ff",
 	"map-github-file": "/maps/mp_waw_brecourt/mp_waw_brecourt.ff"
