@@ -23,9 +23,8 @@ The 2 files below are to be added to the same location:<br />
 **map-github-file =** file path within github to get to this file
 
 ### Example
-<pre>
-  <code> 
-  {<br />
+<pre><code> 
+{<br />
   "name": "mp_name_of_map",<br />
   "rating": "7/10",<br />
   "game-type": "DM, TDM, SD, HQ, DOM, SAB",<br />
