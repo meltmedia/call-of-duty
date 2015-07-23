@@ -13,9 +13,9 @@ The 2 files below are to be added to the same location:<br />
 **mp_name_of_map.ff =** /Applications/Games/Call of Duty 4/Call of Duty 4 Data/zone/english
 
 ### Definition
-**name =** The name of file to run using the COD4 command line<br />
-**rating =** How awesome or good the map is<br />
-**game-type =** What the map supports during game time<br />
+**name =** the name of file to run using the COD4 command line<br />
+**rating =** how awesome or good the map is<br />
+**game-type =** what the map supports during game time<br />
 **map-size =** file size of what you will be downloading to your local machine<br />
 **map-screenshot =** preview of the map you are about to play<br />
 **iwd-github-path =** file path within github to get to this file<br />
