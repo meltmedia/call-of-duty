@@ -4,7 +4,7 @@
 ## JSON
 
 ### Pathing
-This area describes where to load the .iwd, _load.ff and .ff file on your local machine using a mac. When the user receives the following files these are the 3 common files to play custom multiplayer maps for Call of Duty 4:
+This area describes where to load the .iwd, _load.ff and .ff file on your local machine using a mac. When the user receives the following files these are the 3 common files to play custom multiplayer maps for Call of Duty 4 in order to use the COD4 command line:
 
 **localized_english_mp_name_of_map.iwd =** /Applications/Games/Call of Duty 4/Call of Duty 4 Data/main
 
