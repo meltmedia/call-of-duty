@@ -23,7 +23,6 @@ The 2 files below are to be added to the same location:<br />
 **map-github-file =** file path within github to get to this file
 
 ### Example
-
 <pre>
   <code> 
   {<br />
