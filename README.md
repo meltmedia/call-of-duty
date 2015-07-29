@@ -1,5 +1,18 @@
 # Call of Duty 4 Maps
 
+##Maps
+**mp_ic_cod** = DM, TDM. SD, HQ, DOM, SAB, CTF, CTFb<br />
+**mp_bo2_town** = DM, TDM, SD, HQ, DOM, SAB, CTF<br/ >
+**mp_rundown** = DM, TDM, SD, HQ, DOM, SAB<br />
+**mp_osg_freight** = SAB<br />
+**mp_osg_showtime** = SAB<br />
+**mp_firingrange_v2** = SAB<br />
+**mp_rasalem** = SAB<br />
+**mp_rundown** = SAB<br />
+**mp_waw_brecourt** = SAB<br />
+
+**mp_icsl_aztec1** = TDM ( sniper only )<br/ >
+**mp_poolparty** = DM<br />
 
 ## JSON
 
